@@ -1,0 +1,24 @@
+{
+  "name": "apirestnode",
+  "version": "1.0.0",
+  "description": "API Rest full in Node JS with scalability, reuse and separation of responsibilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillWebDesign/apirestnode.git"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "NodeJS"
+  ],
+  "author": "William Bernal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WillWebDesign/apirestnode/issues"
+  },
+  "homepage": "https://github.com/WillWebDesign/apirestnode#readme"
+}
