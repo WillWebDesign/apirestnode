@@ -16,4 +16,4 @@ npm start
  - `/home` - Render the home page sample
 
 ### API
- - `/api/v1/hotels` - Get all dogs
+ - `/api/v1/hotels` - Get all hotels
