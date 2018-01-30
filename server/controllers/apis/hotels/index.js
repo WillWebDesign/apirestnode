@@ -6,7 +6,7 @@ const
 
 let router = express.Router();
 
-router.get('/', hotelService.getHotels);
+router.post('/', hotelService.getHotels);
 
 
 module.exports = router;
