@@ -16,4 +16,13 @@ npm start
  - `/home` - Render the home page sample
 
 ### API
- - `/api/v1/hotels` - Get all hotels
+ - `/api/v1/hotels` - Post all hotels, for filter of name or stars send in the body request a JSON :
+
+ ```
+{"filter":
+  {
+	  "name" : "",
+	  "stars" : ""
+  }
+}
+ ```
